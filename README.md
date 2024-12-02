@@ -11,6 +11,7 @@ spec:
   certifications:
   - CKAD
   - CKA
+  - CKS
   interests:
   - Linux
   - DevOps
@@ -18,8 +19,9 @@ spec:
   - Kubernetes
   - AWS
   - Python
-  learning:
-  - CKS
+  roadmap:
+  - KCNA
+  - KCSA
 ```
 
 ## icon.png

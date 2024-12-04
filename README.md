@@ -20,8 +20,7 @@ spec:
   - AWS
   - Python
   roadmap:
-  - KCNA
-  - KCSA
+  - Kubestronaut
 ```
 
 ## icon.png

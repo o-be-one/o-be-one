@@ -20,7 +20,7 @@ spec:
   - AWS
   - Python
   roadmap:
-  - Kubestronaut
+  - Cybersecurity
 ```
 
 ## icon.png
